@@ -1,4 +1,8 @@
 //problem link  https://leetcode.com/problems/valid-parentheses/description/
+
+//approach would be 
+//so you insert opening bracket whenever you encounter but you get
+//closing bracket what you do is just compare with the top of stack and return the result
 #include <bits/stdc++.h>
 using namespace std;
 
