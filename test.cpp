@@ -6,6 +6,6 @@ int main(){
     cout<<a;
 
     int z;
-    
+
     return 0;
 }
