@@ -1,3 +1,8 @@
+//approach
+
+//basically you can keep two point i and j and then loop moving condition would 
+//be what you are getting afte sum two pointer value
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& num, int target) {
